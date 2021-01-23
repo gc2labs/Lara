@@ -1,5 +1,8 @@
 body,h1 {font-family: "Raleway", sans-serif}
-body, html {height: 100%}
+body,html {
+  height: 100%;
+}
+
 .bgimg {
   background-image: url('dork.jpg');
   min-height: 100%;
@@ -9,4 +12,16 @@ body, html {height: 100%}
 
 .color {
   background-color: #ffe6cc;
+}
+
+.title {
+  color: red;
+}
+
+.main {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  /* background-color: red; */
 }
