@@ -1,4 +1,7 @@
-body,h1 {font-family: "Raleway", sans-serif}
+body,h1 {font-family: "Raleway", "Oswald", sans-serif}
+@font-face {
+  font-family: "Oswald";
+}
 body,html {
   height: 100%;
 }
@@ -19,6 +22,7 @@ body,html {
 }
 
 .main {
+  font-family: "Oswald";
   text-align: center;
   align-items: center;
   justify-content: center;
