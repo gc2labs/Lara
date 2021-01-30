@@ -1,4 +1,5 @@
-# Lara
+# Girls Can Code
 
-#### Here is where you write about what you built and what does your code do?
+#### Here at Girls Can Code: we're teaching the TechLabs how to build a website. This is my example website.
+
 This is a **website** we are *learning* to **build**.
