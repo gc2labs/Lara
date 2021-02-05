@@ -1,29 +1,63 @@
-body,h1 {font-family: "Raleway", "Sofia", sans-serif}
-
 body,html {
   height: 100%;
 }
 
 .bgimg {
-  background-image: url('dork.jpg');
-  min-height: 100%;
+  background-image: url('smear.png');
+  height: 100%;
   background-position: center;
   background-size: cover;
+  background-repeat: repeat-y;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
 }
 
 .color {
   background-color: #ffe6cc;
+
 }
 
 .title {
-  color: red;
+  color: black;
+  padding: 10px;
+}
+
+.title h1 {
+  font-family: 'Dancing Script', cursive;
 }
 
 .main {
-  font-family: Sofia;
+  font-family: 'Lobster Two', cursive;
   text-align: center;
   align-items: center;
   justify-content: center;
   padding: 50px;
-  /* background-color: red; */
+}
+
+.border {
+  border: 5px solid red;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border-radius: 12px;
+  font-family: "Raleway", sans-serif;
+  padding: 5px;
+}
+
+.flowers {
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  border: 10px dotted blue;
+}
+
+.flowers p {
+  font-family: "Raleway", sans-serif;
 }
